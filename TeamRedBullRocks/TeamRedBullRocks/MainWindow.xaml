@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <TextBlock HorizontalAlignment="Left" Height="166" Margin="55,67,0,0" TextWrapping="Wrap" Text="Team Red Bull Rocks" VerticalAlignment="Top" Width="386" FontSize="48" FontWeight="Bold"/>
+
     </Grid>
 </Window>
